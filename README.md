@@ -2,7 +2,7 @@
 
 ShuttleSync is an AI-powered badminton training management platform designed to help coaches and trainees manage training sessions, bookings, attendance, credits, payments, and court fees.
 
-The project is being developed as an end-to-end AI engineering project using FastAPI, PostgreSQL, machine learning, and LLM-powered administrative summaries.
+This project is being developed as an end-to-end AI engineering project using FastAPI, PostgreSQL, machine learning, and AI-powered administrative summaries.
 
 ## Planned Features
 
@@ -12,4 +12,19 @@ The project is being developed as an end-to-end AI engineering project using Fas
 - Attendance history
 - Attendance prediction using machine learning
 - AI-generated summaries for upcoming sessions
-- Web interface and future mobile application
+- Web interface
+- Future mobile application
+
+## Planned Technology Stack
+
+- Python
+- FastAPI
+- PostgreSQL
+- React
+- Scikit-learn
+- PyTorch
+- Docker
+
+## Project Status
+
+Currently in the planning and initial setup phase.
